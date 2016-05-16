@@ -1,0 +1,21 @@
+@media (min-width: 1200px) {
+	#home-banner-1 {height: 388px;}
+	#home-banner-2 {height: 194px;}
+	#home-banner-3 {height: 194px;}
+	#home-banner-4 {height: 194px;}
+	#home-banner-5 {height: 388px;}
+	.loop .img-div {height: 125px;}
+	.foot-loop .img-div {height: 150px;}
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+@media (max-width: 991px) {
+	
+}
+@media (max-width: 768px) {
+	
+}
+@media (max-width: 480px) {
+	
+}

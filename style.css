@@ -1,0 +1,94 @@
+/*  
+
+Theme Name: Hay0U AppStore
+
+Theme URI: http://www.hay0u.com/
+
+Description: Hay0U Theme AppStore
+
+Version: 1.0
+
+Author: hl46000
+
+Author URI: http://www.hay0u.com/
+
+*/
+html {text-rendering: optimizeLegibility;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+body {color: #34495e;position: relative;font-family:"Microsoft YaHei",Tahoma,"hiragino sans gb",Helvetica,Arial;}
+a {color: #34495e;}
+a:hover {color: #ef3d8d; text-decoration: none;}
+img {max-width: 100%;}
+
+
+.mb-10 {margin-bottom: 10px;}
+.mb-20 {margin-bottom: 20px;}
+.img-div {display: block; overflow: hidden;}
+.img-div img {max-width: none!important; width: 100%;}
+.carousel-control.left {background-image:none;filter:none;}
+.carousel-control.right {background-image:none;filter:none;}
+.btn-primary {background-color: #4764cf; border-color: #4764cf;}
+.btn-primary:hover{background-color: #ef3d8d; border-color: #ef3d8d;}
+
+
+header {padding: 20px 0;}
+#logo {margin: 0;font-family: Opensans; font-size: 40px;}
+#logo a {color: #4764cf;}
+#logo a span {color: #ef3d8d;}
+
+#search input {border: none; background: #ecf0f1; font-size: 12px; color: #4764cf;}
+#search button {border: 1px solid #ef3d8d; background-color: #ef3d8d; color: #fff;}
+
+.navbar-default {border: 0; background-color: #4764cf; border-bottom: 10px solid #ecf0f1;}
+.navbar-default .navbar-nav > li > a {color: #fff;}
+.navbar-default .navbar-nav > li > a:hover {color: #fff; background-color: #ef3d8d;}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {background-color: #ef3d8d; color: #fff;}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {background-color: #ef3d8d; color: #fff;}
+
+
+#home-banner {margin: 20px 0;}
+#home-banner,#home-banner .row {margin-left: 0; margin-right: 0;}
+#home-banner .col {padding-left: 0; padding-right: 0;}
+
+#content {padding-right: 20px;}
+
+.foot-loop .thumbnail {border: 0; padding: 0; margin-bottom: 0;}
+
+h4.title {border-bottom: 5px solid #e6eaed; padding-bottom: 4px;}
+
+
+.loop .thumbnail {border: 0; padding: 0; margin-bottom: 0;}
+.loop .img-div {border-radius: 12px;}
+.loop p {overflow: hidden; text-overflow: ellipsis; white-space: nowrap;}
+.loop .btn,.panel-collapse .btn {border-radius: 10px;}
+
+
+#accordion .img-div {height: 100px; width: 100px; border-radius: 10px;}
+#accordion .panel-heading {background: #fff;}
+#collapse-span-1 {color: #ff3b30;}
+#collapse-span-2 {color: #66bc4e;}
+#collapse-span-3 {color: #19d5fd;}
+
+
+footer { margin-top: 23px; padding-top: 23px; border-top: 4px solid #4764cf; padding-bottom: 25px; font-size: 13px; background: #f9f9f9;}
+footer a {color: #ef3d8d;}
+#backtotop {margin-top: -50px; margin-bottom: 20px;}
+#backtotop a {display: block; width: 50px; height: 50px; margin: 0 auto; background: #ef3d8d; color: #fff; text-align: center; line-height: 54px;font-size: 30px; border-radius: 50%; overflow: hidden;}
+#carousel-example-generic {padding-bottom: 30px;}
+#carousel-example-generic .carousel-indicators {bottom: 0px;}
+#carousel-example-generic .carousel-indicators li {border: 2px solid #ef3d8d; margin: 0; border-radius: 50%;}
+#carousel-example-generic .carousel-indicators .active {width: 10px; height: 10px; background-color: #ef3d8d;}
+
+
+#single-side .thumbnail {padding: 0; border: 0;}
+#single-side .img-div {height: 283px; border-radius: 15px;}
+#single-side dl {font-size: 12px; margin-bottom: 8px;}
+#single-side dt,#single-side dd {display: inline;}
+#carousel-example-generic-s {margin-bottom: 30px; background: #ecf0f1; padding-bottom: 80px;}
+#carousel-example-generic-s img {width: 100%;}
+#carousel-example-generic-s .carousel-indicators {bottom: 3px;}
+#carousel-example-generic-s .carousel-indicators li {text-indent: 0; width: 50px; height: 50px; margin: 0; border: 2px solid #4764cf;}
+#carousel-example-generic-s .carousel-indicators li.active {border-color: #ef3d8d;}
+#carousel-example-generic-s .carousel-indicators li .img-div {height: 46px;}
+
+
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {background-color: #ef3d8d;border-color: #ef3d8d;}
